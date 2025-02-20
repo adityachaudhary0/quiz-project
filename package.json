@@ -1,0 +1,22 @@
+{
+  "name": "quiz_project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "bcrypt": "^5.1.1",
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
+    "express": "^4.21.1",
+    "nodemailer": "^6.7.2",
+    "random": "^5.1.1",
+    "random-number-csprng": "^1.0.2"
+  }
+}
